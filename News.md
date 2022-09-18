@@ -1,3 +1,3 @@
-# Publications
+# News
 
 page in progress...
