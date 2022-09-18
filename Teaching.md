@@ -1,5 +1,4 @@
-# Teaching
-
+#
 # Advanced Topics in Artificial Intelligence
 TA,  HS 2021
 * ~50 students (link soon)
