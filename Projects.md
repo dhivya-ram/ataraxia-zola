@@ -1,4 +1,0 @@
-# Projects
-
-page in progress...
-
