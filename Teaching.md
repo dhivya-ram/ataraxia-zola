@@ -1,4 +1,4 @@
-# Bio
+# Teaching
 
 # Advanced Topics in Artificial Intelligence
 TA,  HS 2021
